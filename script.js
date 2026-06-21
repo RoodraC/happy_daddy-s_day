@@ -11,7 +11,7 @@ function openGift() {
         Achievement Unlocked:
         </p>
 
-        <h3>Raised Rudra Successfully</h3>
+        <h3>Being The Best Dad In the World To Rudraditya Chatterjee The Great!</h3>
 
         <h2>+100000 XP</h2>
 
