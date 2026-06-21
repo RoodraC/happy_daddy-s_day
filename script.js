@@ -21,50 +21,7 @@ function openGift() {
     `;
 }
 
-function portfolioAlert() {
 
-    const box = document.getElementById("portfolio");
-
-    box.classList.remove("hidden");
-
-    box.classList.remove("green");
-    box.classList.add("red");
-
-    box.innerHTML = `
-        <h2>🚨 MARKET ALERT 🚨</h2>
-
-        <p>Portfolio Value:</p>
-
-        <h3>₹12,47,000 → ₹1,56,000</h3>
-
-        <h2>-87.4%</h2>
-
-        <p>Severe Market Crash Detected</p>
-    `;
-
-    setTimeout(() => {
-
-        box.classList.remove("red");
-        box.classList.add("green");
-
-        box.innerHTML = `
-            <h2>😆 GOTCHA!</h2>
-
-            <p>
-            Your portfolio is perfectly fine.
-            </p>
-
-            <p>
-            Happy Father's Day, Dad ❤️
-            </p>
-
-            <p>
-            Thanks for teaching me not to panic during market swings.
-            </p>
-        `;
-
-    }, 2500);
-}
 
 function secretButton() {
 
