@@ -69,7 +69,7 @@ secret.innerHTML = `
 
     <p>✅ Gives legendary advice</p>
 
-    <p>❤️ Loved more than he knows</p>
+    <p>❤️ Loved much more than he knows</p>
 `;
 ```
 
